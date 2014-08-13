@@ -1,0 +1,12 @@
+{
+  "name": "onderlingehulp-extranet",
+  "private": true,
+  "version": "v1.0.0-alpha.1",
+  "description": "Onderlingehulp Extranet Project",
+  "repository": "https://neverwoods.svn.beanstalkapp.com/onderlingehulp-extranet",
+  "license": "Apache",
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x"
+  }
+}
